@@ -186,3 +186,8 @@ main {
     width: 100%;
   }
 }
+
+#navbar .nav-list .nav-item a:hover,
+#navbar .nav-list .nav-item a:focus-visible {
+  color: #458FF6;
+}
