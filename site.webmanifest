@@ -1,0 +1,9 @@
+{
+  "name": "Trafalgar",
+  "short_name": "Trafalgar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#458FF6",
+  "icons": [{ "src": "images/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
